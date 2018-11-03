@@ -8,7 +8,7 @@
 
 typedef struct Cmanage cmanage;
 struct Cmanage{
-	int cnum; //1~MAX까지의 수로 정함.
+	int cnum; 
 	int scnum; //학번
 	char cname[30];
 	int ssnum;
