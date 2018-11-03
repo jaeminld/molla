@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#define M_FNAME "data.cau"
 #define MAX 50
 
 //주민번호는 공개안했음.
